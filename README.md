@@ -1,1 +1,1 @@
-# linux-handbook
+- [Lid laptop do nothing](https://github.com/nghia4mt/linux-handbook/blob/main/lid-laptop.md)
