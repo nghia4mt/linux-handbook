@@ -1,5 +1,5 @@
 # Window
-- create file "%USERPROFILE%\.ssh\config" & add text
+- create file "%USERPROFILE%\\.ssh\config" & add text
 ```markdown
 Host github.com
 	HostName github.com
